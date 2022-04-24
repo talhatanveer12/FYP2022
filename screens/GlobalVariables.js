@@ -1,0 +1,20 @@
+global.Email =
+  //   global.DoctorCity =
+  //   global.DoctorName =
+  global.Specialization =
+  global.PatientName =
+  global.PatientCNIC =
+  global.PatientWeight =
+  global.PatientAddress =
+  global.PatientEmail =
+  global.PatientGender =
+  global.UserImageUri =
+  global.PatientAge =
+  global.DoctorName =
+  global.DoctorCNIC =
+  global.DoctorAddress =
+  global.DoctorPMDC =
+  global.DoctorEmail =
+  global.DoctorGender =
+  global.DoctorProfession =
+    global.DoctorImageUri;
